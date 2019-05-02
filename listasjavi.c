@@ -12,6 +12,7 @@ void AltaUsuario(TipoElemento **Inicio,char Nombre[200], char Password [200]);
 void Buscar(TipoElemento *Inicio);
 void BorrarUsuario(TipoElemento **Inicio);
 void ImprimirArchivo(TipoElemento *Inicio);
+//void LeerArchivo(TipoElemento **Inicio);
 void Imprimir(TipoElemento *Inicio);
 void Borrar_Lista(TipoElemento *Inicio);
 
